@@ -21,7 +21,7 @@ WORKDIR /librime
 RUN bash install-plugins.sh \
   rime/librime-charcode \
   hchunhui/librime-lua \
-  WhiredPlanck/librime-quickjs \
+  ipcjs/librime-quickjs \
   lotem/librime-octagram \
   rime/librime-predict
 
